@@ -1,2 +1,2 @@
-# BLErounpadAtmelFirmware
-Atmel firmware
+# BLE rounpad Microchip Firmware
+
